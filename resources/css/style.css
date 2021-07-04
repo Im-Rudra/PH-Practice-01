@@ -89,3 +89,31 @@ p {
 }
 
 /*========== Hero End ==========*/
+
+
+/*========== Dream Big Start ==========*/
+
+.dream-big {
+    display: flex;
+    background-image: url("../../resources/images/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+.dream-title {
+    margin-top: 100px;
+}
+
+.dream-title h2 {
+    margin-bottom: 20px;
+}
+
+.dream-title h3 {
+    margin-bottom: 10px;
+}
+
+.dream-title p {
+    margin-bottom: 50px;
+}
+
+/*========== Dream Big End ==========*/
