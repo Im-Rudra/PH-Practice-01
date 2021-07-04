@@ -117,3 +117,55 @@ p {
 }
 
 /*========== Dream Big End ==========*/
+
+
+/*========== Experience Start ==========*/
+
+.experience {
+    background-image: url("../../resources/images/exp-bg.png");
+    background-repeat: no-repeat;
+    background-position: left center;
+    margin-bottom: 50px;
+}
+
+.experience h1 {
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+.exp-sec {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.exp-1, .exp-2 {
+    padding: 30px 10px 30px 30px;
+    max-width: 40%;
+    min-height: 300px;
+    box-shadow: 1px 5px 40px gray;
+    border-left: 5px solid;
+    border-radius: 7px;
+}
+
+.exp-1 h2, .exp-2 h2 {
+    margin-bottom: 30px;
+}
+
+.exp-1 h3, .exp-2 h3 {
+    margin-bottom: 15px;
+    color: orange;
+}
+
+.exp-1 p, .exp-2 p {
+    margin-bottom: 10px;
+}
+
+.exp-1 {
+    border-image: linear-gradient(#ff3c00, tomato) 1;
+}
+
+.exp-2 {
+    border-image: linear-gradient(blue, cyan) 1;
+}
+
+/*========== Experience End ==========*/
