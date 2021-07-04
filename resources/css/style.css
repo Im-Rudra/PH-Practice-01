@@ -169,3 +169,16 @@ p {
 }
 
 /*========== Experience End ==========*/
+
+
+/*========== Footer Start ==========*/
+
+footer {
+    margin: 20px 0 10px;
+}
+
+footer p {
+    text-align: center;
+}
+
+/*========== Footer End ==========*/
